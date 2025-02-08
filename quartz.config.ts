@@ -12,9 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "en-US",
     baseUrl: "debarchito.is-a.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
@@ -26,7 +24,7 @@ const config: QuartzConfig = {
       typography: {
         header: "Raleway",
         body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
