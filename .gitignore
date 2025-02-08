@@ -9,3 +9,7 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+.devenv*
+devenv.local.nix
+.direnv
+.pre-commit-config.yaml
