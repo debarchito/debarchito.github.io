@@ -1,9 +1,6 @@
 ---
 title: 1. From a Bed in a Hospital
 date: 2024-03-30
-tags:
-  - evergreen-shelf
-  - short-stories
 ---
 
 > [!note]
