@@ -19,4 +19,4 @@ Some of the things you can find here:
   - [[Evergreen Shelf/Random Notes]] is a collection of well, random notes.
   - [[Evergreen Shelf/Short Stories]] is a collection of my short stories.
 - [[Night Garden]] is an open diary sharing perspectives, fostering exploration, contemplation and introspection.
-- **The Andew Labs** is my nerdy blog. You can expect anything science and tech here (to be published soon).
+- [[The Andew Labs]] is my nerdy blog. You can expect anything science and tech here.
