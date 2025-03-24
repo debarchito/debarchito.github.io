@@ -3,8 +3,7 @@ title: 1. Introduction
 date: 2024-03-26
 ---
 
-> [!note]
-> **Last edited on** Feb 12, 2025.
+> [!note] > **Last edited on** Feb 12, 2025.
 
 > One needs a place where they can wander freely through the corridors of thought, under the moon's gentle glow, exploring the depths of philosophy, the nuances and the intricacies of everyday life, all amidst the quiet embrace of the Night Garden.
 
@@ -15,4 +14,5 @@ Night Garden is an open diary sharing perspectives, fostering exploration, conte
 <a href="https://brainmade.org"><img src="https://brainmade.org/black-logo.png" alt="brainmade" width="160" height="50" /></a>
 
 > [!info] Footnotes
-> - **LLM Contribution:** *None*. [[Why BRAINMADE.ORG?]].
+>
+> - **LLM Contribution:** _None_. [[Why BRAINMADE.ORG?]].

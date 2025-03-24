@@ -27,4 +27,5 @@ date: 2025-01-24
 <a href="https://brainmade.org"><img src="https://brainmade.org/black-logo.png" alt="brainmade" width="160" height="50" /></a>
 
 > [!info] Footnotes
-> - **LLM Contribution:** *None*. [[Why BRAINMADE.ORG?]].
+>
+> - **LLM Contribution:** _None_. [[Why BRAINMADE.ORG?]].

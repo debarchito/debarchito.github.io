@@ -5,8 +5,7 @@ tags:
   - brainmade-org
 ---
 
-> [!note]
-> **Last edited on** Feb 12, 2025.
+> [!note] > **Last edited on** Feb 12, 2025.
 
 Going forward, I'll be adding the [BRAINMADE.ORG](https://brainmade.org) logo to every work of mine, and the reasoning behind it is quite simple:
 
@@ -17,4 +16,5 @@ Additionally, I will provide information on LLM's contribution in the creation, 
 <a href="https://brainmade.org"><img src="https://brainmade.org/black-logo.png" alt="brainmade" width="160" height="50" /></a>
 
 > [!info] Footnotes
-> - **LLM Contribution:** *None*.
+>
+> - **LLM Contribution:** _None_.
