@@ -1,4 +1,4 @@
-> [!note] **Posted on** Apr 08, 2025 **and revised** 2 **times.**
+> [!note] **Posted on** Apr 08, 2025 **and revised** 3 **times.**
 
 > God, that's a good ache. <br/> It's that bittersweet pulse for I care and
 > feel.
@@ -20,7 +20,7 @@
 > Not your time.<br/> Not your heart.<br/> Not even the gratitude.
 >
 > That's decent I suppose—elegant and stripped of ego.<br/> Pardon me for my
-> works that immortalize you—<br/> as that's something I lied about.<br/> After
+> works that immortalize you—<br/> as there's something I lied about.<br/> After
 > all, I did end up taking something.
 >
 > If I'm honest—leaving was just the part I practised.<br/> The lines I
