@@ -1,6 +1,4 @@
----
-date: 2025-04-08
----
+> [!note] **Posted on** Apr 08, 2025 **and revised** 2 **times.**
 
 > God, that's a good ache. <br/> It's that bittersweet pulse for I care and
 > feel.
