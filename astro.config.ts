@@ -1,4 +1,3 @@
-// @ts-check
 import svelte from "@astrojs/svelte";
 import sitemap from "@astrojs/sitemap";
 import { defineConfig } from "astro/config";
