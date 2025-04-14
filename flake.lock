@@ -2,9 +2,7 @@
   "nodes": {
     "flake-parts": {
       "inputs": {
-        "nixpkgs-lib": [
-          "nixpkgs"
-        ]
+        "nixpkgs-lib": ["nixpkgs"]
       },
       "locked": {
         "lastModified": 1743550720,
