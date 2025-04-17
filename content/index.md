@@ -29,5 +29,3 @@ Some of the things you can find here:
     that—well, needed no name.
 - [[Night Garden]] is an open diary sharing perspectives, fostering exploration,
   contemplation and introspection.
-- [[The Andew Labs]] is my nerdy blog. You can expect anything science and tech
-  here.
