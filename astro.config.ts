@@ -4,8 +4,8 @@ import tailwindcss from "@tailwindcss/vite";
 import { defineConfig } from "astro/config";
 
 export default defineConfig({
-  site: "https://debarchito.is-a.dev",
-  base: "website",
+  site: "https://debarchito.github.io",
+  base: "/",
   integrations: [svelte(), sitemap()],
   vite: {
     plugins: [tailwindcss()],
