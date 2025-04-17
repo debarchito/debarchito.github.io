@@ -1,7 +1,14 @@
 ---
-import Layout from "../layouts/Layout.astro";
+import Root from "@layouts/Root.astro";
 ---
 
-<Layout>
-  <h1 class="text-red-500">Hello World!</h1>
-</Layout>
+<Root title="debarchito | Home">
+  <div class="flex min-h-screen w-full flex-col lg:flex-row">
+    <div class="bg-gray-100 p-4 lg:w-1/5">
+        #1
+    </div>
+    <div class="bg-white p-4 lg:w-4/5">
+        #2
+    </div>
+  </div>
+</Root>
