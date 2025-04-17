@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Source Code": "https://github.com/debarchito/debarchito.github.io",
+      "Source Code": "https://github.com/debarchito/ddg",
     },
   }),
 }
