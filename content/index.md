@@ -3,7 +3,7 @@ title: Welcome to d'DG!
 date: 2024-03-26
 ---
 
-> `d'DG` (or `dDG` for URI safe) — a **digital garden** that sprouted on **March
+> `d'DG` (or `ddg` for URI safe) — a **digital garden** that sprouted on **March
 > 26th, 2024**. The name is a simple abbreviation: **d**ebarchito's **D**igital
 > **G**arden.
 
