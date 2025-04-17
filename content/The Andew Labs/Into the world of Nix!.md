@@ -10,8 +10,8 @@ tags:
 
 I used [Homebrew](https://brew.sh/) as my primary package manager (along with
 many _secondaries_ for specific use-cases) for a while after switching to Linux
-([Pop!\_OS](https://pop.system76.com/)), but I’ve recently moved away from it. It
-was great at first, offering every package I needed and ensuring they were
+([Pop!\_OS](https://pop.system76.com/)), but I’ve recently moved away from it.
+It was great at first, offering every package I needed and ensuring they were
 almost always up-to-date.
 
 However, the honeymoon phase didn’t last for long. Many users regularly complain
