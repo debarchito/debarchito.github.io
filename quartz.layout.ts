@@ -8,7 +8,11 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Source Code": "https://github.com/debarchito/ddg",
+      "GitHub": "https://github.com/debarchito",
+      "Twitter": "https://x.com/debarchito",
+      "Reddit": "https://www.reddit.com/user/debarchito",
+      "Discord": "https://discordapp.com/users/739497344780992564",
+      "[matrix]": "https://matrix.to/#/@debarchito:matrix.org",
     },
   }),
 }

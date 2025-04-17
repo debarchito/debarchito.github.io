@@ -9,12 +9,7 @@ date: 2024-03-26
 
 I'm **Debarchito Nath** (my online alias is `Andew`); a computer science student
 who loves math a bit too much. Through `d'DG`, I plan to slowly but steadily
-archive my creations as well as create a unique digital place for myself. My
-socials (non-exhaustive):
-
-- [GitHub](https://github.com/debarchito)
-- [Twitter](https://twitter.com/debarchito)
-- [\[matrix\]](https://matrix.to/#/@debarchito:matrix.org)
+archive my creations as well as create a unique digital place for myself.
 
 This site is not the most organized or filled to the brim with content.
 Hopefully, this will change soon. I might wake up one day and re-write the whole
