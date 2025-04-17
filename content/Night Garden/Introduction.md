@@ -1,9 +1,8 @@
 ---
 title: 1. Introduction
-date: 2024-03-26
 ---
 
-> [!note] **Last edited on** Feb 12, 2025.
+> [!note] **Posted on** Mar 26, 2024 **and revised** 3 **times.**
 
 > One needs a place where they can wander freely through the corridors of
 > thought, under the moon's gentle glow, exploring the depths of philosophy, the

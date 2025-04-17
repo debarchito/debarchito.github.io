@@ -1,11 +1,10 @@
 ---
 title: 2. Why BRAINMADE.ORG?
-date: 2024-08-08
 tags:
   - brainmade-org
 ---
 
-> [!note] **Last edited on** Feb 12, 2025.
+> [!note] **Posted on** Aug 08, 2024 **and revised** 3 **times.**
 
 Going forward, I'll be adding the [BRAINMADE.ORG](https://brainmade.org) logo to
 every work of mine, and the reasoning behind it is quite simple:

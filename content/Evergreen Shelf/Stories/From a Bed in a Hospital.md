@@ -1,9 +1,9 @@
 ---
-title: 1. From a Bed in a Hospital
-date: 2024-03-30
+tags:
+  - one-shot
 ---
 
-> [!note] **Last edited on** Feb 12, 2025.
+> [!note] **Posted on** Mar 30, 2024 **and revised** 7 **times.**
 
 **July 26th**, Sunday.
 

@@ -1,9 +1,5 @@
----
-title: 1. Introspection
-date: 2025-01-24
----
-
-> [!note] Notes for my role in **"Emotions: an Act of being Human"**.
+> [!note] **Posted on** Jan 24, 2025 **and revised** 3 **times.** **Notes for my
+> role in** "Emotions: an Act of being Human"**.**
 
 - “What is the meaning behind the moments that frighten us? What truths are we
   trying to avoid? These moments are not just obstacles—they are mirrors
