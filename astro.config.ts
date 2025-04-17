@@ -5,7 +5,6 @@ import { defineConfig } from "astro/config";
 
 export default defineConfig({
   site: "https://debarchito.github.io",
-  base: "/",
   integrations: [svelte(), sitemap()],
   vite: {
     plugins: [tailwindcss()],
