@@ -20,7 +20,7 @@
         {
           devShells.default = pkgs.mkShellNoCC {
             packages = [
-              pkgs.nodejs-slim_23
+              pkgs.nodejs-slim_24
               pkgs.pnpm
             ];
           };
