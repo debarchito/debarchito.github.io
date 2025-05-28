@@ -13,16 +13,12 @@
   "devDependencies": {
     "@astrojs/check": "^0.9.4",
     "@astrojs/sitemap": "^3.4.0",
-    "@astrojs/svelte": "^7.1.0",
-    "@lucide/svelte": "^0.488.0",
     "@tailwindcss/vite": "^4.1.7",
     "astro": "^5.8.0",
-    "daisyui": "^5.0.37",
+    "daisyui": "^5.0.38",
     "prettier": "^3.5.3",
     "prettier-plugin-astro": "^0.14.1",
-    "prettier-plugin-svelte": "^3.4.0",
     "prettier-plugin-tailwindcss": "^0.6.11",
-    "svelte": "^5.33.1",
     "tailwindcss": "^4.1.7",
     "typescript": "^5.8.3"
   }
