@@ -1,8 +1,17 @@
 ---
 import Root from "@layouts/Root.astro";
+import ContainerOne from "@components/ContainerOne.astro";
+import ContainerTwo from "@components/ContainerTwo.astro";
 ---
 
 <Root title="debarchito | Home">
-  Things are moving. You probably are looking for
-  <a class="underline" href="https://debarchito.is-a.dev/ddg">d'DG</a>!
+  <div class="flex flex-col md:h-screen md:flex-row">
+    <div class="bg-square w-full md:w-2/5">
+      <ContainerOne />
+    </div>
+
+    <div class="w-full overflow-y-auto md:w-3/5">
+      <ContainerTwo />
+    </div>
+  </div>
 </Root>
