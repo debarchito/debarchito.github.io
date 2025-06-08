@@ -16,9 +16,7 @@
         { pkgs, ... }:
         {
           devShells.default = pkgs.mkShellNoCC {
-            packages = [
-              pkgs.nodejs_20
-            ];
+            packages = [ pkgs.nodejs ];
           };
         };
     };
