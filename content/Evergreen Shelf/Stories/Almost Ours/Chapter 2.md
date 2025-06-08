@@ -15,4 +15,4 @@ flow, let her light seep through instead of chasing it. Slowly, the tide carried
 us, not where I wanted to go but where we needed to be. I began to see not just
 her but the spaces I'd been blind to all along.
 
-[[Chapter 1|Previous]], [[Chapter 3|Next]]
+[[Chapter 1|← Previous]] &nbsp; [[Chapter 3|Next →]]
