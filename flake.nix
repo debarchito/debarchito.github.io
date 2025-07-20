@@ -20,8 +20,12 @@
         {
           devShells.default = pkgs.mkShellNoCC {
             packages = [
+              pkgs.astro-language-server
               pkgs.nodejs-slim_24
               pkgs.pnpm
+              pkgs.svelte-language-server
+              pkgs.typescript-language-server
+              pkgs.tailwindcss-language-server
             ];
           };
         };
