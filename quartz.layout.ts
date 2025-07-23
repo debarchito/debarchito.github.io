@@ -9,9 +9,9 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "GitHub": "https://github.com/debarchito",
-      "Twitter": "https://x.com/debarchito",
-      "Reddit": "https://www.reddit.com/user/debarchito",
-      "Discord": "https://discordapp.com/users/739497344780992564",
+      "Codeberg": "https://codeberg.org/debarchito",
+      "Mastodon": "https://mastodon.social/@debarchito",
+      "Bluesky": "https://bsky.app/profile/debarchito.bsky.social",
       "[matrix]": "https://matrix.to/#/@debarchito:matrix.org",
     },
   }),
