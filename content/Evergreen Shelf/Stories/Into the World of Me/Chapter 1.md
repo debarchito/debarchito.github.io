@@ -4,7 +4,14 @@ tags:
    - into-the-world-of-me
 ---
 
-> **Diary Entry: 31st May, 2047**
+> [!note] Reader's Note
+>
+> The story makes use of both self-narration and dialogues. All narrative
+> sections are marked within `N-S` (_Narration Start_) and `N-E` (_Narration
+> End_).
+
+> `N-S`\
+> **Entry: 31st May, 2047**
 
 NOOOOO! How can it arrive so quickly? I have an PE exam; it suuucks! By the way
 it's 31st May, 2047; wait didn't I already write that before I started this
@@ -64,6 +71,11 @@ sister) went ahead and gave me a good luck charm.
 > awake too late at night, and don't forget to call Saya!"_
 
 I've the cutest little sister in the world, I can't really go back on my words
-anymore (￣□￣;). On a serious note, independence isn't that bad either.
+anymore (￣□￣;). On a serious note, independence isn't all that bad either.
 
-`TODO`
+Well, this is enough for one entry. I've my breakfast to prepare and leave for
+school afterwards. Writing entries in the morning isn't suitable after all.
+
+Kazuto out.
+
+> `N-E`
