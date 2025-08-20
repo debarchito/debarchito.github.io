@@ -3,7 +3,7 @@ tags:
   - almost-ours
 ---
 
-> "I was the centre of my world, and the world was only mine."
+> "I was the center of my world, and the world was only mine."
 
 I built walls, not to keep others out, but to keep myself in. Everything beyond
 them seemed unimportant, blurred, a backdrop of my thoughts. Every question I
