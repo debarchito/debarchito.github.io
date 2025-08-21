@@ -1,0 +1,20 @@
+[[language]]
+name = "markdown"
+language-servers = ["markdown-oxide", "ltex-ls-plus"]
+file-types = ["md", "txt"]
+
+[language-server.ltex-ls-plus]
+command = "ltex-ls-plus"
+config.ltex.language = "en-US"
+
+[language-server.ltex-ls-plus.config.ltex.dictionary]
+"en-US" = [
+  "Dai",
+  "Efiie",
+  "EFIIE",
+  "Elo",
+  "Hona",
+  "Iotia",
+  "Kazuto",
+  "Saya",
+]

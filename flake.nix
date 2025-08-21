@@ -16,7 +16,11 @@
         { pkgs, ... }:
         {
           devShells.default = pkgs.mkShellNoCC {
-            packages = [ pkgs.nodejs ];
+            packages = [
+              pkgs.ltex-ls-plus
+              pkgs.markdown-oxide
+              pkgs.nodejs
+            ];
           };
         };
     };
