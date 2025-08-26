@@ -1,6 +1,7 @@
 ---
 tags:
   - almost-ours
+date: 2025-06-08
 ---
 
 > "She became the sky, and I simply looked up."
@@ -18,4 +19,4 @@ Now, I find myself not in the mirrors or the echoes but in the spaces she
 creates. The world is no longer rigid, no longer mine to control. It's hers and
 I can and am content to be a part of it.
 
-[[Chapter 2|← Previous]] &nbsp; [[Interlude|Next →]]
+[[Evergreen Shelf/Stories/Almost Ours/Chapter 2|← Previous]] &nbsp; [[Evergreen Shelf/Stories/Almost Ours/Interlude|Next →]]

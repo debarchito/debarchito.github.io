@@ -1,6 +1,7 @@
 ---
 tags:
   - almost-ours
+date: 2025-06-08
 ---
 
 > "I was the center of my world, and the world was only mine."
@@ -14,4 +15,4 @@ I wasn't cruel, just detached. Detached from what lay outside the boundaries of
 my own design. The silence around me wasn't empty—it was filled with the hum of
 my own voice. And so, I stayed, wrapped in the safety of knowing only myself.
 
-[[Chapter 2|Next →]]
+[[Evergreen Shelf/Stories/Almost Ours/Chapter 2|Next →]]

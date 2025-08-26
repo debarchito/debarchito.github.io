@@ -1,6 +1,7 @@
 ---
 tags:
   - almost-ours
+date: 2025-06-08
 ---
 
 > "It's beautiful cause it's not perfect; just the raw strokes of becoming,
@@ -10,7 +11,7 @@ tags:
 
 Perhaps, it could be named for how the story was **almost ours**.
 
-[[Chapter 3|← Previous]]
+[[Evergreen Shelf/Stories/Almost Ours/Chapter 3|← Previous]]
 
 <p xmlns:cc="http://creativecommons.org/ns#" >This work (Chapter 1-3, Interlude) is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:18px!important;margin-left:5px;vertical-align:middle;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:18px!important;margin-left:3px;vertical-align:middle;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:18px!important;margin-left:3px;vertical-align:middle;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:18px!important;margin-left:3px;vertical-align:middle;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
 
