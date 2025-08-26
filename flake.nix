@@ -25,6 +25,7 @@
               pkgs.pnpm
               pkgs.typescript-language-server
               pkgs.tailwindcss-language-server
+              pkgs.vscode-css-languageserver
             ];
           };
         };

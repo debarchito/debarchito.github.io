@@ -1,6 +1,16 @@
+[language-server.vscode-css-languageserver]
+command = "vscode-css-languageserver"
+args = ["--stdio"]
+
 [language-server.tailwindcss]
 command = "tailwindcss-language-server"
 args = ["--stdio"]
+
+[[language]]
+name = "css"
+formatter = { command = "pnpm", args = ["prettier", "--parser", "css"] }
+auto-format = true
+language-servers = ["vscode-css-languageserver", "tailwindcss"]
 
 [[language]]
 name = "astro"
