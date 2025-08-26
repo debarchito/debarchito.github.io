@@ -4,16 +4,16 @@ args = ["--stdio"]
 
 [[language]]
 name = "astro"
-formatter = { command = "prettier", args = ["--parser", "astro"] }
+formatter = { command = "pnpm", args = ["prettier", "--parser", "astro"] }
 auto-format = true
 language-servers = ["astro-ls", "tailwindcss"]
 
 [[language]]
 name = "javascript"
-formatter = { command = "prettier", args = ["--parser", "typescript"] }
+formatter = { command = "pnpm", args = ["prettier", "--parser", "typescript"] }
 auto-format = true
 
 [[language]]
 name = "typescript"
-formatter = { command = "prettier", args = ["--parser", "typescript"] }
+formatter = { command = "pnpm", args = ["prettier", "--parser", "typescript"] }
 auto-format = true
