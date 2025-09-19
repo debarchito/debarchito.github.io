@@ -16,6 +16,7 @@
         { pkgs, ... }:
         {
           devShells.default = pkgs.mkShellNoCC {
+            name = "ddg";
             packages = [
               pkgs.ltex-ls-plus
               pkgs.markdown-oxide
