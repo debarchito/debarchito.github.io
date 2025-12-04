@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "GitHub": "https://github.com/debarchito",
       "Codeberg": "https://codeberg.org/debarchito",
-      "Mastodon": "https://mastodon.social/@debarchito",
+      "Mastodon": "https://hachyderm.io/@debarchito",
       "Bluesky": "https://bsky.app/profile/debarchito.bsky.social",
       "[matrix]": "https://matrix.to/#/@debarchito:matrix.org",
     },
