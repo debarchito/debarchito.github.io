@@ -1,5 +1,9 @@
 ---
-import { Github, Twitter, Linkedin, Mail, Info } from "@lucide/astro";
+import { Mail, Info } from "@lucide/astro";
+import Github from "@lib/components/icons/Github.astro";
+import Bluesky from "@lib/components/icons/Bluesky.astro";
+import Mastodon from "@lib/components/icons/Mastodon.astro";
+import Codeberg from "@lib/components/icons/Codeberg.astro";
 ---
 
 <div class="p-10 md:text-xl">
@@ -16,18 +20,29 @@ import { Github, Twitter, Linkedin, Mail, Info } from "@lucide/astro";
     </span>
   </div>
 
-  <div class="mt-8 flex justify-center gap-6">
+  <div class="mt-8 flex justify-center gap-4">
     <a href="https://github.com/debarchito" class="social-icon">
-      <Github size={20} />
+      <div class="size-5">
+        <Github />
+      </div>
     </a>
-    <a href="https://x.com/debarchito" class="social-icon">
-      <Twitter size={20} />
+    <a href="https://codeberg.org/debarchito" class="social-icon">
+      <div class="size-[1.17rem]">
+        <Codeberg />
+      </div>
     </a>
-    <a href="https://www.linkedin.com/in/debarchito" class="social-icon">
-      <Linkedin size={20} />
+    <a href="https://hachyderm.io/@debarchito" class="social-icon">
+      <div class="size-5">
+        <Mastodon />
+      </div>
     </a>
-    <a href="mailto:debarchitonath@gmail.com" class="social-icon">
-      <Mail size={20} />
+    <a href="https://bsky.app/profile/debarchito.bsky.social" class="social-icon">
+      <div class="size-5">
+        <Bluesky />
+      </div>
+    </a>
+    <a href="mailto:debarchitn@proton.me" class="social-icon">
+      <Mail size={17} />
     </a>
   </div>
 </div>
@@ -43,7 +58,7 @@ import { Github, Twitter, Linkedin, Mail, Info } from "@lucide/astro";
   }
 
   .social-icon {
-    @apply transition-all duration-300 ease-in-out hover:scale-110 hover:animate-bounce;
+    @apply transition-all duration-300 ease-in-out hover:scale-110;
     text-shadow: none;
   }
 
