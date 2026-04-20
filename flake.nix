@@ -14,7 +14,6 @@
       systems = [
         "x86_64-linux"
         "aarch64-linux"
-        "aarch64-darwin"
       ];
 
       perSystem =
@@ -22,6 +21,7 @@
         {
           devShells.default = pkgs.mkShellNoCC {
             name = "ddg-dev";
+
             packages = [
               pkgs.ltex-ls-plus
               pkgs.markdown-oxide
