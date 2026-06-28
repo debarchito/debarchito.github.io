@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
+      "Sourcehut": "https://git.sr.ht/debarchito",
       "GitHub": "https://github.com/debarchito",
-      "Codeberg": "https://codeberg.org/debarchito",
       "Mastodon": "https://hachyderm.io/@debarchito",
       "Bluesky": "https://bsky.app/profile/debarchito.bsky.social",
       "[matrix]": "https://matrix.to/#/@debarchito:matrix.org",

@@ -20,8 +20,7 @@
         { pkgs, ... }:
         {
           devShells.default = pkgs.mkShellNoCC {
-            name = "ddg-dev";
-
+            name = "website-dev";
             packages = [
               pkgs.ltex-ls-plus
               pkgs.markdown-oxide
