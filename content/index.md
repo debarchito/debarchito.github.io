@@ -1,17 +1,38 @@
 ---
 title: Welcome to d'DG!
-date: 2024-03-26
+date: 2026-06-28
 ---
 
-> `d'DG` (or `ddg` for URI safe) — a **digital garden** that sprouted on **March
-> 26th, 2024**. The name is a simple abbreviation: **d**ebarchito's **D**igital
-> **G**arden.
+> `d'DG` (or `ddg` for URI safe) is a simple abbreviation: **d**ebarchito's
+> **D**igital **G**arden.
 
-I'm **Debarchito Nath** (my online alias is `Andew`); a computer science student
-who loves math a bit too much. Through `d'DG`, I plan to slowly but steadily
-archive my creations as well as create a unique digital place for myself.
+Yahallo! I'm **debarchito**, a computer science student who likes a good type
+system. I like building things that solve my day to day chores;
+[minework](https://git.sr.ht/~debarchito/minework) to manage Minecraft mods,
+modpacks, et al. and [mfctl](https://git.sr.ht/~debarchito/mfctl) (it was based
+on a fork I modified to work nicely with [Nix](https://nixos.org)) to control my
+[Arturia MiniFuse 1](https://www.arturia.com/products/audio/minifuse/minifuse-1)
+are good examples of it. You might've noticed that my content is generally very
+heavy on text; you'd be correct and this place is no different.
 
-This site is not the most organized or filled to the brim with content.
-Hopefully, this will change soon. I might wake up one day and re-write the whole
-site from scratch instead of using [Quartz](https://quartz.jzhao.xyz/). All I
-know is, this garden is here to stay.
+> _A tool is as good as the thought (documentation) and care it's creator put
+> into it._
+
+I am currently researching and building
+[Miru](https://git.sr.ht/~debarchito/miru). It is a statically typed Lisp+ML
+hybrid that uses algebraic effect handlers for all non-local control flow (even
+errors are just a subset of effects that discard their continuations). The
+primary objective is to combine the type safety of [OCaml](https://ocaml.org)
+with the ergonomics of [Clojure](https://clojure.org) with differences drawn
+where it makes sense. It was and still is heavily inspired by
+[Shen](https://shen-language.github.io) and
+[Koka](https://koka-lang.github.io/koka/doc/index.html).
+
+This site is open-ended so navigating it can be a bit daunting at first. Thus,
+I've divided the content into distinct categories:
+
+- [[The Nursery]] is my experimental blog.
+- [[Evergreen Shelf]] holds my literary works viz. poems, stories, et al.
+- [[Night Garden]] is my place to get realist when no one calls for it.
+
+Have fun!
