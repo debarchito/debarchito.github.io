@@ -1,7 +1,7 @@
 import matter from "gray-matter"
 import remarkFrontmatter from "remark-frontmatter"
 import { QuartzTransformerPlugin } from "../types"
-import yaml from "js-yaml"
+import { load, JSON_SCHEMA } from "js-yaml"
 import toml from "toml"
 import { FilePath, FullSlug, getFileExtension, slugifyFilePath, slugTag } from "../../util/path"
 import { QuartzPluginData } from "../vfile"
@@ -66,7 +66,7 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
             const { data } = matter(fileData, {
               ...opts,
               engines: {
-                yaml: (s) => yaml.load(s, { schema: yaml.JSON_SCHEMA }) as object,
+                yaml: (s) => load(s, { schema: JSON_SCHEMA }) as object,
                 toml: (s) => toml.parse(s) as object,
               },
             })
