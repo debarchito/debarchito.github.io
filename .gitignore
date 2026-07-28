@@ -5,9 +5,12 @@ public
 prof
 tsconfig.tsbuildinfo
 .obsidian
+.turbo
 .quartz-cache
 private/
 .replit
 replit.nix
-.quartz/
-quartz/cli/tui/dist/
+.devenv*
+devenv.local.nix
+.direnv
+.pre-commit-config.yaml

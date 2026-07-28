@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: d'DG
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: null
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: debarchito.github.io
   ignorePatterns:
     - private
     - templates
@@ -16,30 +16,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: "Raleway"
+      body: "Source Sans Pro"
+      code: "JetBrains Mono"
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#eff1f5"
+        lightgray: "#ccd0da"
+        gray: "#9ca0b0"
+        darkgray: "#6c6f85"
+        dark: "#4c4f69"
+        secondary: "#8839ef"
+        tertiary: "#7287fd"
+        highlight: "rgba(139 170 248 0.15)"
+        textHighlight: "#e64553"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#1e1e2e"
+        lightgray: "#313244"
+        gray: "#585b70"
+        darkgray: "#a6adc8"
+        dark: "#cdd6f4"
+        secondary: "#cba6f7"
+        tertiary: "#b4befe"
+        highlight: "rgba(245 194 231 0.15)"
+        textHighlight: "#cba6f788"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -109,6 +109,23 @@ plugins:
     enabled: true
   - source: "@quartz-community/explicit-publish"
     enabled: false
+  - source: "@quartz-community/unlisted-pages"
+    enabled: true
+    options: {}
+    order: 45
+  - source: "@quartz-community/encrypted-pages"
+    enabled: true
+    options:
+      iterations: 600000
+      passwordField: password
+      unlistWhenEncrypted: false
+      outputPath: static/encryptedContentIndex.json
+  - source: "@quartz-community/stacked-pages"
+    enabled: false
+    layout:
+      position: afterBody
+      priority: 50
+      display: all
   - source: "@quartz-community/alias-redirects"
     enabled: true
   - source: "@quartz-community/content-index"
@@ -203,10 +220,13 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Sourcehut: "https://git.sr.ht/debarchito"
+        GitHub: "https://github.com/debarchito"
+        Mastodon: "https://hachyderm.io/@debarchito"
+        Bluesky: "https://bsky.app/profile/debarchito.bsky.social"
+        "[matrix]": "https://matrix.to/#/@debarchito:matrix.org"
     layout:
-      position: footer
+      position: afterBody
       priority: 50
   - source: "@quartz-community/recent-notes"
     enabled: false
@@ -238,24 +258,6 @@ plugins:
     layout:
       position: beforeBody
       priority: 15
-      display: all
-  - source: "@quartz-community/unlisted-pages"
-    enabled: true
-    options: {}
-    order: 45
-  - source: "@quartz-community/encrypted-pages"
-    enabled: true
-    options:
-      iterations: 600000
-      passwordField: password
-      unlistWhenEncrypted: false
-      outputPath: static/encryptedContentIndex.json
-    order: 900
-  - source: "@quartz-community/stacked-pages"
-    enabled: false
-    layout:
-      position: afterBody
-      priority: 50
       display: all
 layout:
   groups:
