@@ -1,9 +1,6 @@
 ---
-tags:
-  - one-shot
+date: 2024-03-30
 ---
-
-> [!note] **Posted on** Mar 30, 2024 **and revised** 7 **times.**
 
 **July 26th**, Sunday.
 
@@ -199,11 +196,24 @@ said he, pouting slightly.
 said his sister with a smile on her face. They all hugged each other warmly, a
 sense of unity and love filling the room.
 
-<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:18px!important;margin-left:5px;vertical-align:middle;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:18px!important;margin-left:3px;vertical-align:middle;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:18px!important;margin-left:3px;vertical-align:middle;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:18px!important;margin-left:3px;vertical-align:middle;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
+<p style="font-size: 1rem; display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin: 0;">
+  <span>Licensed under</span>
+  <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display: inline-flex; align-items: center; gap: 3px; text-decoration: none;">
+    <strong>CC BY-NC-SA 4.0</strong>
+    <img style="height: 14px !important; vertical-align: middle;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" />
+    <img style="height: 14px !important; vertical-align: middle;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" />
+    <img style="height: 14px !important; vertical-align: middle;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" />
+    <img style="height: 14px !important; vertical-align: middle;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" />
+  </a>
+  <span>•</span>
+  <span>Carries the</span>
+  <a href="https://brainmade.org" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; text-decoration: none; vertical-align: middle;">
+    <img src="https://brainmade.org/black-logo.png" alt="brainmade" style="height: 1rem; width: auto; vertical-align: middle;" />
+    <span style="margin-left: 0.4rem;">mark.</span>
+  </a>
+  <span>Learn <a href="/night-garden/why-brainmade.org">why</a>.</span>
+</p>
 
-<a href="https://brainmade.org"><img src="https://brainmade.org/black-logo.png" alt="brainmade" width="160" height="50" /></a>
-
-> [!info] Footnotes
+> [!INFO] Footnotes
 >
-> - **LLM Contribution:** _Grammatical corrections (Grammerly)_. [[Why
->   BRAINMADE.ORG?]].
+> - **LLM Contribution:** _Grammatical corrections (Grammerly)_.

@@ -1,20 +1,7 @@
----
-date: 2025-06-08
----
-
-> "She didn't appear suddenly; I let her in."
-
-It started with a gesture—small, deliberate, but clumsy. I reached out, time and
-again, but the weight of trying to control everything turned even my best
-efforts into failures. I thought I could carve paths, force moments, but the
-more I tried, the more they slipped away.
-
-And then, I stopped. Not because I wanted to, but because I had to. I let things
-flow, let her light seep through instead of chasing it. Slowly, the tide carried
-us, not where I wanted to go but where we needed to be. I began to see not just
-her but the spaces I'd been blind to all along.
-
-[[Almost Ours/Chapter 1|← Previous]] &nbsp; [[Almost Ours/Chapter 3|Next →]]
+It is a _collection of poems_ I wrote while being in wildly different emotional
+states. Hence, I never really named them properly; more so didn't need to. They
+are largely unplanned and that's part of their charm; there is no central theme
+to it.
 
 <p style="font-size: 1rem; display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin: 0;">
   <span>Licensed under</span>

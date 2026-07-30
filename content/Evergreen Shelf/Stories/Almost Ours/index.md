@@ -1,27 +1,24 @@
 ---
 title: Almost Ours
+date: 2025-06-08
 ---
-<p style="display: inline-flex; align-items: center; flex-wrap: wrap; margin: 0;">
-  This work is licensed under&nbsp;
-  <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" 
-     target="_blank" 
-     rel="license noopener noreferrer" 
-     style="display:inline-flex; align-items: center; text-decoration: none;">
-    CC BY-NC-SA 4.0&nbsp;
-    <img style="height:18px!important;margin-left:5px;vertical-align:middle;" 
-         src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1">
-    <img style="height:18px!important;margin-left:3px;vertical-align:middle;" 
-         src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">
-    <img style="height:18px!important;margin-left:3px;vertical-align:middle;" 
-         src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1">
-    <img style="height:18px!important;margin-left:3px;vertical-align:middle;" 
-         src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1">
-  </a>
-  &nbsp;and is proudly marked&nbsp;&nbsp;
-  <a href="https://brainmade.org" 
-     style="display: inline-flex; align-items: center; text-decoration: none;">
-    <img src="https://brainmade.org/black-logo.png" alt="brainmade" width="80" height="24" />
-  </a>
-</p>
 
-> Read more at [[Why BRAINMADE.ORG?]] 
+As much it hurts to say, it's based off my own life. But, it turned out good.
+
+<p style="font-size: 1rem; display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin: 0;">
+  <span>Licensed under</span>
+  <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display: inline-flex; align-items: center; gap: 3px; text-decoration: none;">
+    <strong>CC BY-NC-SA 4.0</strong>
+    <img style="height: 14px !important; vertical-align: middle;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" />
+    <img style="height: 14px !important; vertical-align: middle;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" />
+    <img style="height: 14px !important; vertical-align: middle;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" />
+    <img style="height: 14px !important; vertical-align: middle;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" />
+  </a>
+  <span>•</span>
+  <span>Carries the</span>
+  <a href="https://brainmade.org" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; text-decoration: none; vertical-align: middle;">
+    <img src="https://brainmade.org/black-logo.png" alt="brainmade" style="height: 1rem; width: auto; vertical-align: middle;" />
+    <span style="margin-left: 0.4rem;">mark.</span>
+  </a>
+  <span>Learn <a href="/night-garden/why-brainmade.org">why</a>.</span>
+</p>
