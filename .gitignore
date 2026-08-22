@@ -10,7 +10,7 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
-.devenv*
-devenv.local.nix
-.direnv
-.pre-commit-config.yaml
+.direnv/
+.quartz/
+quartz/cli/tui/dist/
+.turbo/
