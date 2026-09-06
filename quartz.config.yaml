@@ -224,7 +224,7 @@ plugins:
         GitHub: "https://github.com/debarchito"
         Mastodon: "https://hachyderm.io/@debarchito"
         Bluesky: "https://bsky.app/profile/debarchito.bsky.social"
-        "[matrix]": "https://matrix.to/#/@debarchito:matrix.org"
+        "[matrix]": "https://matrix.to/#/@debarchito:unredacted.org"
     layout:
       position: afterBody
       priority: 50
